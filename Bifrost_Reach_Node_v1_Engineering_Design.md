@@ -2,6 +2,10 @@
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/Bifrost_Reach_Node_Cyber_Viking_Hero.png](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/Bifrost_Reach_Node_Cyber_Viking_Hero.png)
+
+---
+
 # RuneForgeAI: Bifröst Reach Node v1
 ## A Raspberry Pi–Powered Long-Range Cellular Gateway, Signal Surveyor, Smart Antenna Controller, and Nomadic Connectivity Platform
 
