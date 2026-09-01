@@ -1,0 +1,113 @@
+BIFRÖST REACH NODE
+NOTICE
+
+Copyright © 2026 Volmarr Wyrd.
+
+Bifröst Reach Node is an open-source hardware and software project for
+portable, intelligent, long-range cellular connectivity using Raspberry Pi
+systems, cellular modems, external antennas, networking software, signal
+analysis, and related hardware.
+
+This project contains components licensed under multiple open-source
+licenses.
+
+## SOFTWARE
+
+Unless otherwise stated, software contained in this project is licensed
+under the Apache License, Version 2.0.
+
+SPDX-License-Identifier: Apache-2.0
+
+The complete license text is available at:
+
+```
+LICENSES/Apache-2.0.txt
+```
+
+## OPEN HARDWARE
+
+Unless otherwise stated, hardware design materials contained in this
+project are licensed under the CERN Open Hardware Licence Version 2 -
+Strongly Reciprocal.
+
+SPDX-License-Identifier: CERN-OHL-S-2.0
+
+The complete license text is available at:
+
+```
+LICENSES/CERN-OHL-S-2.0.txt
+```
+
+## PROJECT ATTRIBUTION
+
+Bifröst Reach Node was created as an open-source project focused on
+off-grid, nomadic, rural, emergency, experimental, and edge-networking
+applications.
+
+The project may include contributions from multiple developers,
+researchers, designers, testers, and AI-assisted development tools.
+
+Individual contributors retain copyright in their respective
+contributions where applicable.
+
+## THIRD-PARTY COMPONENTS
+
+Bifröst Reach Node may interface with, depend upon, reference, or include
+third-party projects, libraries, firmware, software packages, hardware
+modules, documentation, designs, drivers, protocols, and tools.
+
+Such third-party components remain subject to their original licenses,
+copyright notices, and terms.
+
+Nothing in this NOTICE file modifies or replaces the licensing terms of
+third-party works.
+
+## TRADEMARKS AND PROJECT IDENTITY
+
+"Bifröst Reach Node", associated logos, graphics, visual identities, and
+project branding may be used to accurately identify or reference the
+project.
+
+Open-source licensing of project source code and hardware designs does not
+automatically grant permission to represent modified products, commercial
+products, forks, or derived systems as officially endorsed by the
+Bifröst Reach Node project or its contributors.
+
+## RADIO, TELECOMMUNICATIONS, AND SAFETY
+
+This project may involve cellular modems, antennas, radio-frequency
+equipment, wireless networking equipment, power systems, batteries,
+solar systems, antenna masts, and related electronics.
+
+Users, manufacturers, distributors, and operators are responsible for
+ensuring compliance with all applicable:
+
+* radio-frequency regulations
+* telecommunications regulations
+* cellular carrier requirements
+* equipment certification requirements
+* electrical codes
+* battery safety requirements
+* structural and mast safety requirements
+* local, state, national, and international laws
+
+The project does not grant authorization to operate radio transmitters,
+amplifiers, cellular repeaters, boosters, or other regulated equipment in
+a manner prohibited by applicable law.
+
+## NO WARRANTY
+
+This project is provided without warranty except as expressly provided by
+the applicable licenses.
+
+Hardware construction, modification, RF deployment, networking,
+electrical installation, antenna installation, and field operation are
+performed at the user's own responsibility.
+
+For authoritative licensing terms, consult:
+
+```
+LICENSE
+LICENSES/Apache-2.0.txt
+LICENSES/CERN-OHL-S-2.0.txt
+```
