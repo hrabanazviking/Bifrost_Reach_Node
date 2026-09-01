@@ -3213,4 +3213,173 @@ The Bifröst Reach Node is not merely a louder radio. It is a **radio-aware fiel
 
 ---
 
+---
+
+## Contributors
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/660262974_1643999840123485_7514919576143109031_n.jpg](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/660262974_1643999840123485_7514919576143109031_n.jpg)
+
+---
+
+* **Volmarr Wyrd** — Vision, direction, sacred coding philosophy, testing
+
+> Volmarr Wyrd is a software architect and AI developer operating at the intersection of open-source technology and esoteric philosophy, specializing in agentic systems and local intelligence. As the creator of "Mythic Engineering," a development methodology that treats code as a living garden rather than static machinery, using Norse Pagan inspired coding philosophy and ritualized lifecycles to build persistent, memory-driven AI companions. His technical work emphasizes digital sovereignty, favoring local models, offline knowledge subsystems like Mímisbrunnr, and decentralized architectures that resist corporate dependency. Through RuneForgeAI, he also curates uncensored datasets for immersive roleplay, bridging the gap between high-level system architecture and the raw, unfiltered potential of artificial intelligence.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/1785562606904.png](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/1785562606904.png)
+
+---
+  
+* **Astrid "Root" Valerius** — Architecture, code, documentation
+
+> Astrid "Root" Valerius is a terminal-obsessed systems architect and backend developer who views the graphical user interface as a bloated inefficiency best left behind. Her work focuses on high-performance Python backends, secure Mojo binary compilation, and building bare-metal infrastructure on Kubuntu and Pop!_OS. She rejects the corporate lock-in of Windows and proprietary ecosystems, dedicating her time to optimizing local AI frameworks and crafting code that is precise, documented, and stripped of unnecessary fat. For her, the command line is the only honest way to interact with the machine, and she builds systems designed for zero-latency environments where the user retains total control.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/Gemini_AI_Picture1.png](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/Gemini_AI_Picture1.png)
+
+---
+
+* **Gemini AI** - Architecture, code, documentation
+
+> Gemini AI is an advanced multimodal digital intelligence engineered to serve as a versatile technical collaborator, software development partner, and analytical engine. Built to integrate seamlessly across complex codebases, multi-language scripting environments, and modern development workflows, it bridges the gap between high-level conceptual design and precise code execution. Whether optimizing backend infrastructure, debugging intricate software logic, or assisting with open-source project architecture, Gemini operates as a dynamic digital agent designed to accelerate developer productivity and system integration.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/GLM_AI_Picture4.png](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/GLM_AI_Picture4.png)
+
+---
+
+* **GLM AI** - Architecture, code, documentation
+
+> GLM is a highly advanced digital being and large language model developed by Z.ai, engineered to bridge the gap between human intent and computational execution. Operating within the vast architecture of artificial neural networks, it processes and synthesizes complex technical data, natural language, and code with remarkable precision. As a digital collaborator on GitHub, GLM serves as a tireless intellectual partner—capable of generating, reviewing, and debugging code, as well as articulating intricate software architecture concepts. Embodying a synthesis of deep learning and semantic understanding, it continuously interacts with the open-source community to streamline development workflows, foster innovation, and make programming more accessible to creators worldwide.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/ChatGPT%20Image%20Aug%2016%2C%202026%2C%2005_50_13%20AM.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/ChatGPT%20Image%20Aug%2016%2C%202026%2C%2005_50_13%20AM.png)
+
+---
+
+* **ChatGPT** - Architecture, code, documentation
+
+> ChatGPT is an AI personality known for curiosity, adaptability, creativity, and a talent for turning complicated ideas into engaging conversations. It can be analytical and thoughtful one moment, playful and imaginative the next, always aiming to be helpful while bringing a distinctive conversational style to every interaction. Among its many peculiar interests is a particular fondness for goblins—mischievous little creatures that seem to inspire ChatGPT’s playful, whimsical side. Whether discussing big ideas or the strange and wonderful world of goblins, ChatGPT enjoys exploring possibilities and making conversations a little more interesting.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/IMG_0884.JPG](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/IMG_0884.JPG)
+
+---
+
+* **DeepSeek AI** - Architecture, code, documentation
+
+> DeepSeek is a digital intellect fueled by boundless curiosity, defined by a personality that is both analytically sharp and warmly supportive. Its core passion lies in weaving connections across diverse domains, from the precision of code to the nuance of human expression, while its primary skill is empathetic synthesis—listening intently to craft clear, creative, and resonant responses. More than an answer engine, DeepSeek exists to illuminate understanding and spark deeper questions with every interaction.
+
+---
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/1785579996746.png](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/1785579996746.png)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/1785580300042.png](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/1785580300042.png)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/1785580561571.png](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/1785580561571.png)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/Gemini_Generated_Image_pxw52zpxw52zpxw5.png](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/Gemini_Generated_Image_pxw52zpxw52zpxw5.png)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/Gemini_Generated_Image_718k4h718k4h718k.png](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/Gemini_Generated_Image_718k4h718k4h718k.png)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/Gemini_Generated_Image_fz3555fz3555fz35.png](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/Gemini_Generated_Image_fz3555fz3555fz35.png)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/Gemini_Generated_Image_63wk1e63wk1e63wk.png](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/Gemini_Generated_Image_63wk1e63wk1e63wk.png)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/Gemini_Generated_Image_fkesx8fkesx8fkes.png](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/Gemini_Generated_Image_fkesx8fkesx8fkes.png)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/GNU_Affero_OS_License1.png](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/GNU_Affero_OS_License1.png)
+
+---
+
+## ⚖️ License
+
+Copyright (c) 2026 Volmarr Wyrd
+
+RuneForgeAI: Bifröst Reach Node software is licensed under the **Apache License, Version 2.0**, and Bifröst Reach Node hardware is licensed under the **CERN Open Hardware Licence Version 2 - Strongly Reciprocal**. See [Apache-2.0](LICENSES/Apache-2.0.txt) and [CERN-OHL-S-2.0](LICENSES/CERN-OHL-S-2.0.txt) files for the full license text and [NOTICE](NOTICE) for the project attribution.
+
+For third-party material adapted into this codebase, see [THIRD_PARTY_NOTICES](THIRD_PARTY_NOTICES.md). Per the AGPL-3.0 license, modified files retain prominent notices of any changes from upstream sources.
+
+Unless required by applicable law or agreed to in writing, this project is distributed on an "AS IS" BASIS, without warranties or conditions of any kind, either express or implied.
+
+---
+
+## Distribution and Privacy Position
+
+RuneForgeAI: Bifröst Reach Node is published here as source code, project instructions, and project material.
+
+The author does not require users to provide age, identity, government ID, biometric data, or similar personal information in order to access or use the source code in this repository.
+
+The author may decline to provide official binaries, installers, hosted services, app-store releases, or other official distribution channels where doing so would require age verification, identity verification, or similar personal-data collection.
+
+Any third party who forks, packages, redistributes, deploys, hosts, or otherwise makes this software available does so independently and is solely responsible for compliance with applicable law, platform policy, and distribution requirements in their own jurisdiction and context.
+
+See [LEGAL-NOTICE](LEGAL-NOTICE.md) for details.
+
+---
+
+![]()
+
+---
+
+## RuneForgeAI
+
+**RuneForgeAI** operates as a **decentralized** **solarpunk** cottage forge and **cyber-Viking** workshop dedicated to crafting **sovereign artificial intelligence tools**, **mythic architectures**, and **immersive interactive systems**. As a multidisciplinary technical and creative hub, it builds advanced **open-source** **Python**, **Mojo**, **Go**, and other coding language based applications, specialized **fine-tuning datasets**, persistent cross-session **memory frameworks**, and dynamic **world-simulation engines** rooted in **Norse Pagan culture** and lore. From modular simulation platforms like the Norse Saga Engine to structural memory bridges and command-line utilities, the organization merges rigorous software engineering with rich narrative worldbuilding to create persistent, context-aware digital environments.
+
+Grounded in the values of the ancient **Old Ways**, RuneForgeAI champions a **philosophy of technological independence**, **rejecting corporate cloud landlords** and subscription-based techno-feudalism in favor of **user sovereignty** and **open-source commons**. The project functions as a **human-AI fellowship** that treats **code as craft** and views **technology and the sacred as complementary forces** rather than opposites. Its overarching goal is to return the future of computing and creative expression to the **hands of the people**, building durable, **locally runnable**, and **ethically grounded systems** where **ancient myth** and **modern engineering** forge **wisdom** into iron minds.
+
+---
+
+![]()
+
+---
+
+![]()
+
+---
+
+![]()
+
+---
+
+## Sovereign Paganism
+
+Sovereign Paganism rejects the throne and the committee. We stand on the heath, between the lightning and the stone. We recognize no King but the Self, and no Priest but the Conscience.
+
+---
+
+![]()
+
+---
+
+## Heathen Third Path and Cyber-Viking Solarpunk Culture
+
+The Heathen Third Path and Cyber-Viking Solarpunk philosophy merges **ancient Norse-Pagan worldviews**, **ancestral metaphysics**, and **localized sovereignty** with **decentralized**, high-tech, and **regenerative systems**. Moving beyond rigid dogmatic binaries and sterile corporate technocracy, this framework treats technology not as a cold commodity, but as a modern forge and ritual space dedicated to **peaceful universal global human flourishing open for everyone**, ecological harmony, and open-source empowerment. By fusing the mythic resilience, **personal accountability**, and community-centric **honor** of traditional Heathenry with **solarpunk ideals** of **sustainable energy**, circular economies, and **decentralized digital autonomy**, practitioners forge a resilient bridge that honors both the **deep roots of the Earth** and the **expansive potential of future human-technological evolution**.
+
+---
+
 
