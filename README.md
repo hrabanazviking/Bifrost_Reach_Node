@@ -3317,7 +3317,7 @@ Grounded in the values of the ancient **Old Ways**, RuneForgeAI champions a **ph
 
 ---
 
-![]()
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/Sovereign_Paganism_Flag_V1.png](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/Sovereign_Paganism_Flag_V1.png)
 
 ---
 
@@ -3327,7 +3327,7 @@ Sovereign Paganism rejects the throne and the committee. We stand on the heath, 
 
 ---
 
-![]()
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/cybervikingsolarpunk1.png](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/cybervikingsolarpunk1.png)
 
 ---
 
