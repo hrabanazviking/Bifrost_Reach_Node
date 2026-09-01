@@ -1,4 +1,4 @@
-# Project A.E.S.I.R. AI Rules — Part 2
+# AI Rules — Part 2
 
 ## Reality-First Code, Evidence, and Completion Law
 
@@ -20,9 +20,9 @@ script author, and human contributor working in this repository
 
 ## 1. Purpose
 
-These rules exist to prevent code that merely looks implemented. Project
-A.E.S.I.R. accepts only code whose names, behavior, integration, tests,
-documentation, and evidence agree.
+These rules exist to prevent code that merely looks implemented. This project 
+accepts only code whose names, behavior, integration, tests, documentation, 
+and evidence agree.
 
 An AI must never make the repository appear more complete than it is. When a
 requested capability cannot yet be implemented or proved, the correct result is
@@ -858,7 +858,7 @@ These rules are intentionally strict. They protect the project from:
 ## 20. Benchmark and Performance Law
 
 - **PERF-001:** Never invent benchmark numbers.
-- **PERF-002:** Never copy vendor or upstream numbers as A.E.S.I.R. results.
+- **PERF-002:** Never copy vendor or upstream numbers as this project's results.
 - **PERF-003:** Never estimate measured performance and label it observed.
 - **PERF-004:** Correctness gates run before timing.
 - **PERF-005:** Record commit, build mode, hardware, OS, driver/runtime,
@@ -1222,7 +1222,7 @@ Any answer exposing a false implication blocks completion.
 
 ## 32. The Final Law
 
-Project A.E.S.I.R. must never obtain the appearance of capability at the cost of
+This project must never obtain the appearance of capability at the cost of
 reality.
 
 When real code is possible, write it completely, connect it, test it, document
@@ -1231,3 +1231,6 @@ boundary, state the missing prerequisite, and leave the capability honestly
 non-verified.
 
 No success-shaped fiction enters the forge.
+
+---
+

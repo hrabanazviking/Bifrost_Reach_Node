@@ -4,11 +4,7 @@
 
 ## Authority and Purpose
 
-This document is the operational law for all AI agents and human contributors working on Project Æsir. It supersedes improvisation. It overrides stylistic preference. It binds every commit, every file, every architectural decision.
-
-Project Æsir is a bare-metal Mojo LLM inference engine. It is not a Python wrapper. It is not a frontend. It is not a demonstration. It is a production-track system designed to run language models on local hardware with zero cloud dependency, zero telemetry, and zero compromise on performance.
-
-If you are working on this project, you are building infrastructure. Act like it.
+This document is the operational law for all AI agents and human contributors working on this project. It supersedes improvisation. It overrides stylistic preference. It binds every commit, every file, every architectural decision.
 
 ---
 
@@ -93,7 +89,9 @@ This is not aesthetic preference. It is consistency law. Mixed quoting styles cr
 
 ### The Domain Map
 
-Project Æsir is organized into domains. Each domain owns specific responsibilities and must not bleed into others.
+This project is organized into domains. Each domain owns specific responsibilities and must not bleed into others.
+
+Example project domains:
 
 | Domain | Core Module | Owns | Does Not Own |
 |--------|------------|------|--------------|
@@ -260,7 +258,7 @@ var cached_context = mimir_well.retrieve(session_id)
 
 ### The Capability Ledger
 
-Every feature in Project Æsir is tracked in `CAPABILITY_LEDGER.md` with one of five statuses:
+Every feature in this project is tracked in `CAPABILITY_LEDGER.md` with one of five statuses:
 
 | Status | Meaning |
 |--------|---------|
@@ -478,8 +476,8 @@ The machine does not lie. The terminal is the only honest interface. Build accor
 
 ---
 
-*This document is law within Project Æsir. It evolves through proposal and agreement, not through unilateral deviation. If you believe a rule should change, raise it in a DECISIONS entry and make your case. Until then, obey.*
+*This document is law within this project. It evolves through proposal and agreement, not through unilateral deviation. If you believe a rule should change, raise it in a DECISIONS entry and make your case. Until then, obey.*
 
 ---
 
-*Maintained by the Architect role. Last updated: 2026-08-15.*
+*Maintained by the Architect role. Last updated: 2026-09-01.*
