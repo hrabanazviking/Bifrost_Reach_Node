@@ -16,6 +16,10 @@
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/Bifrost_Reach_Node1.png](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/Bifrost_Reach_Node1.png)
+
+---
+
 # Table of Contents
 
 1. [Executive Summary](#1-executive-summary)
@@ -143,6 +147,10 @@ The system is deliberately not dependent on cloud infrastructure. If the Interne
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/Bifrost_Reach_Node2.png](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/Bifrost_Reach_Node2.png)
+
+---
+
 # 3. Design Goals
 
 ## 3.1 Primary goals
@@ -213,6 +221,10 @@ The system does not impersonate a carrier tower, IMSI catcher, femtocell, or pri
 ## 4.3 No guarantee of coverage
 
 If the site is genuinely outside radio reach, only changing location, gaining elevation, using a different carrier, or switching to a non-terrestrial link such as satellite can solve the problem.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/Bifrost_Reach_Node3.png](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/Bifrost_Reach_Node3.png)
 
 ---
 
@@ -335,6 +347,10 @@ The real reasons to preserve four antenna paths are:
 - higher-rank MIMO where available;
 - better handling of multipath;
 - improved modem flexibility across bands.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/Bifrost_Reach_Node4.png](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/Bifrost_Reach_Node4.png)
 
 ---
 
@@ -3272,11 +3288,11 @@ The Bifröst Reach Node is not merely a louder radio. It is a **radio-aware fiel
 
 ---
 
-
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/CERN_Open_Hardware_Licence_V2_Strongly_Reciprocal_Viking.png](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/CERN_Open_Hardware_Licence_V2_Strongly_Reciprocal_Viking.png)
 
 ---
 
-## ⚖️ License
+## ⚖️ Licenses
 
 Copyright (c) 2026 Volmarr Wyrd
 
