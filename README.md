@@ -128,6 +128,10 @@ A practical complete manual-aiming system is expected to land around **$700–$1
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/ChatGPT%20Image%20Sep%201%2C%202026%2C%2006_24_49%20AM.png](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/ChatGPT%20Image%20Sep%201%2C%202026%2C%2006_24_49%20AM.png)
+
+---
+
 # 2. What the Bifröst Reach Node Is
 
 Bifröst is best understood as five systems living in one box:
