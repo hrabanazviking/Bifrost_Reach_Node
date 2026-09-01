@@ -1,10 +1,10 @@
-# Bifröst Reach Node — Software
+# RuneForgeAI: Bifröst Reach Node — Software
 
-> **Software stack for the Bifröst Reach Node intelligent off-grid cellular communications platform.**
+> **Software stack for the RuneForgeAI: Bifröst Reach Node intelligent off-grid cellular communications platform.**
 
 The `software/` directory contains the user-space software responsible for controlling, monitoring, routing, optimizing, and automating a Bifröst Reach Node.
 
-Bifröst combines a Raspberry Pi or similar Linux edge computer with a 4G/5G modem, external MIMO antennas, optional antenna positioning hardware, and intelligent network-management software to create a portable cellular communications outpost for rural, remote, nomadic, emergency, and experimental use.
+RuneForgeAI: Bifröst combines a Raspberry Pi or similar Linux edge computer with a 4G/5G modem, external MIMO antennas, optional antenna positioning hardware, and intelligent network-management software to create a portable cellular communications outpost for rural, remote, nomadic, emergency, and experimental use.
 
 The software does **not** function as an unauthorized cellular repeater or homemade RF amplifier. It controls commercially available modem and networking hardware and operates on the data/network side of the cellular connection.
 
@@ -1890,7 +1890,7 @@ See the repository-level licensing documentation for details.
 
 # Safety and Regulatory Notice
 
-Bifröst Reach Node software is intended to control and manage lawful networking and communications hardware.
+RuneForgeAI: Bifröst Reach Node software is intended to control and manage lawful networking and communications hardware.
 
 It does **not** authorize:
 
@@ -1908,7 +1908,7 @@ Users are responsible for ensuring that their equipment and deployment comply wi
 
 # The Bifröst Principle
 
-Bifröst does not attempt to overpower the radio horizon.
+RuneForgeAI: Bifröst does not attempt to overpower the radio horizon.
 
 It listens, measures, remembers, adapts, climbs higher, points more precisely, chooses more intelligently, and makes the most of every surviving thread of connectivity.
 
