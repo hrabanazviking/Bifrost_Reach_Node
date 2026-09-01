@@ -3268,6 +3268,14 @@ The Bifröst Reach Node is not merely a louder radio. It is a **radio-aware fiel
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/Viking_Apache_V2_1.jpg](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/Viking_Apache_V2_1.jpg)
+
+---
+
+
+
+---
+
 ## ⚖️ License
 
 Copyright (c) 2026 Volmarr Wyrd
