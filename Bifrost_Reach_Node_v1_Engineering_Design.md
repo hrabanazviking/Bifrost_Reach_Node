@@ -128,6 +128,10 @@ A practical complete manual-aiming system is expected to land around **$700–$1
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/ChatGPT%20Image%20Sep%201%2C%202026%2C%2006_24_49%20AM.png](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/ChatGPT%20Image%20Sep%201%2C%202026%2C%2006_24_49%20AM.png)
+
+---
+
 # 2. What the Bifröst Reach Node Is
 
 Bifröst is best understood as five systems living in one box:
@@ -200,6 +204,10 @@ If the antenna motor dies, aim manually. If the Pi dashboard dies, basic routing
 ### Principle D: No illegal homemade repeater
 
 The Pi controls networking and measurement. It does not become an unauthorized cellular RF power amplifier.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/a9ec9b92-144c-4120-9a7f-ca014888311a.png](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/a9ec9b92-144c-4120-9a7f-ca014888311a.png)
 
 ---
 
