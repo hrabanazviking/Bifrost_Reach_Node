@@ -207,6 +207,10 @@ The Pi controls networking and measurement. It does not become an unauthorized c
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/a9ec9b92-144c-4120-9a7f-ca014888311a.png](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/a9ec9b92-144c-4120-9a7f-ca014888311a.png)
+
+---
+
 # 4. Non-Goals and Legal Boundaries
 
 ## 4.1 Do not build a raw cellular bidirectional amplifier
