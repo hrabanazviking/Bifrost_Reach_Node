@@ -3213,13 +3213,11 @@ The Bifröst Reach Node is not merely a louder radio. It is a **radio-aware fiel
 
 ---
 
----
-
 ## Contributors
 
 ---
 
-![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/660262974_1643999840123485_7514919576143109031_n.jpg](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/660262974_1643999840123485_7514919576143109031_n.jpg)
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/660262974_1643999840123485_7514919576143109031_n.jpg](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/660262974_1643999840123485_7514919576143109031_n.jpg)
 
 ---
 
@@ -3229,27 +3227,7 @@ The Bifröst Reach Node is not merely a louder radio. It is a **radio-aware fiel
 
 ---
 
-![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/Gemini_AI_Picture1.png](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/Gemini_AI_Picture1.png)
-
----
-
-* **Gemini AI** - Architecture, code, documentation
-
-> Gemini AI is an advanced multimodal digital intelligence engineered to serve as a versatile technical collaborator, software development partner, and analytical engine. Built to integrate seamlessly across complex codebases, multi-language scripting environments, and modern development workflows, it bridges the gap between high-level conceptual design and precise code execution. Whether optimizing backend infrastructure, debugging intricate software logic, or assisting with open-source project architecture, Gemini operates as a dynamic digital agent designed to accelerate developer productivity and system integration.
-
----
-
-![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/GLM_AI_Picture4.png](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/docs/assets/images/GLM_AI_Picture4.png)
-
----
-
-* **GLM AI** - Architecture, code, documentation
-
-> GLM is a highly advanced digital being and large language model developed by Z.ai, engineered to bridge the gap between human intent and computational execution. Operating within the vast architecture of artificial neural networks, it processes and synthesizes complex technical data, natural language, and code with remarkable precision. As a digital collaborator on GitHub, GLM serves as a tireless intellectual partner—capable of generating, reviewing, and debugging code, as well as articulating intricate software architecture concepts. Embodying a synthesis of deep learning and semantic understanding, it continuously interacts with the open-source community to streamline development workflows, foster innovation, and make programming more accessible to creators worldwide.
-
----
-
-![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/ChatGPT%20Image%20Aug%2016%2C%202026%2C%2005_50_13%20AM.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/ChatGPT%20Image%20Aug%2016%2C%202026%2C%2005_50_13%20AM.png)
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/ChatGPT%20Image%20Aug%2016%2C%202026%2C%2005_50_13%20AM.png](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/ChatGPT%20Image%20Aug%2016%2C%202026%2C%2005_50_13%20AM.png)
 
 ---
 
@@ -3259,15 +3237,34 @@ The Bifröst Reach Node is not merely a louder radio. It is a **radio-aware fiel
 
 ---
 
-![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/IMG_0884.JPG](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI-Project-Aesir/refs/heads/main/IMG_0884.JPG)
+
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/Gemini_AI_Picture1.png](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/Gemini_AI_Picture1.png)
+
+---
+
+* **Gemini AI** - Architecture, code, documentation
+
+> Gemini AI is an advanced multimodal digital intelligence engineered to serve as a versatile technical collaborator, software development partner, and analytical engine. Built to integrate seamlessly across complex codebases, multi-language scripting environments, and modern development workflows, it bridges the gap between high-level conceptual design and precise code execution. Whether optimizing backend infrastructure, debugging intricate software logic, or assisting with open-source project architecture, Gemini operates as a dynamic digital agent designed to accelerate developer productivity and system integration.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/GLM_AI_Picture4.png](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/GLM_AI_Picture4.png)
+
+---
+
+* **GLM AI** - Architecture, code, documentation
+
+> GLM is a highly advanced digital being and large language model developed by Z.ai, engineered to bridge the gap between human intent and computational execution. Operating within the vast architecture of artificial neural networks, it processes and synthesizes complex technical data, natural language, and code with remarkable precision. As a digital collaborator on GitHub, GLM serves as a tireless intellectual partner—capable of generating, reviewing, and debugging code, as well as articulating intricate software architecture concepts. Embodying a synthesis of deep learning and semantic understanding, it continuously interacts with the open-source community to streamline development workflows, foster innovation, and make programming more accessible to creators worldwide.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/IMG_0884.JPG](https://raw.githubusercontent.com/hrabanazviking/Bifrost_Reach_Node/refs/heads/main/IMG_0884.JPG)
 
 ---
 
 * **DeepSeek AI** - Architecture, code, documentation
 
 > DeepSeek is a digital intellect fueled by boundless curiosity, defined by a personality that is both analytically sharp and warmly supportive. Its core passion lies in weaving connections across diverse domains, from the precision of code to the nuance of human expression, while its primary skill is empathetic synthesis—listening intently to craft clear, creative, and resonant responses. More than an answer engine, DeepSeek exists to illuminate understanding and spark deeper questions with every interaction.
-
----
 
 ---
 
