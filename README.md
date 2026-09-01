@@ -2,7 +2,7 @@
 
 ---
 
-# Bifröst Reach Node v1
+# RuneForgeAI: Bifröst Reach Node v1
 ## A Raspberry Pi–Powered Long-Range Cellular Gateway, Signal Surveyor, Smart Antenna Controller, and Nomadic Connectivity Platform
 
 **Document type:** Engineering architecture / build specification  
